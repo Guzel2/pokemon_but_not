@@ -49,10 +49,10 @@ creatures 4-7
   - Active (0 Mana) ITP: Look at the top 4 of your deck, put up to 2 Mana into your hand. Shuffle the other cards and put them at the bottom of your deck.
 
 - Destructo >:) 3 HP
-  - Active (1 Mana) OTP: Put 1 Damage on this creature: Draw until you have 4 cards in hand. (You can't use this Active if it has 1 HP remaining.)
+  - Active (1 Mana) OPT: Put 1 Damage on this creature: Draw until you have 4 cards in hand. (You can't use this Active if it has 1 HP remaining.)
 
 - Speedy Groundhog 2 HP
-  - Active (3 Mana) OTP: Return one Mana from play to your hand. Draw 3 cards.
+  - Active (3 Mana) OPT: Return one Mana from play to your hand. Draw 3 cards.
 
 items 3-5
 - Put 2 Mana cards from your discard pile into your hand.
