@@ -1,4 +1,4 @@
 TODO:
-- [ ] make cards
+- [x] make cards
 - [ ] make deck
 - [ ] play game (weekend?)
