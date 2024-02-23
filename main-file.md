@@ -57,7 +57,7 @@ creatures 4-7
 items 3-5
 - Put 2 Mana cards from your discard pile into your hand.
 - Shuffle up to 3 in any combination of Creatures and Mana cards from your discard pile into your deck.
-- Return 2 Mana from play to your Hand: Put 1 Damage on an enemy creature.
+- Return 2 Mana from play to your Hand: Put 1 Damage on a creature.
 - Look at the top 7 cards of your deck. You may reveal a creature you find there and put it into your hand. Shuffle the other cards and put them at the bottom of your deck.
 - Discard 1 Mana card from your hand, if you do search your deck for a creature, reveal it and put it into your hand. Shuffle your deck
 
