@@ -1,8 +1,8 @@
 # design guidlines of cards for easy duplication
 
 ### design
-- dimensions: 148x196 (Width x Height)
-- font: Sans Serif, 16px, line spacing: -2px (Microsoft equivalent ist Arial (glaub ich))
+- dimensions: 400x600 (Width x Height)
+- font: Sans Serif, 30px, line spacing: -2px (Microsoft equivalent ist Arial (glaub ich))
 - just slap the text somewhere on there who cares
 
 ### colors

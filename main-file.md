@@ -33,25 +33,25 @@
 ### volcanion abklatsch
 
 creatures 4-7
-- TEMPORARY NAME 5 HP  
-  - Attack (2 Mana | 1 Dmg) Put 1 Mana from your discard into play.  
+- Recychloe 5 HP
+  - Attack (2 Mana | 1 Dmg) Put 1 Mana from your discard into play.
   - Attack (5 Mana | 5 Dmg)
 
-- TEMPORARY NAME 7 HP  
-  - Active (1 Mana) Discard a Mana from hand: your attacks that deal 3 or less base damage do 1 more damage this turn  
-  - Attack (3 Mana | 2+ Dmg) Return up to 2 of your Mana from play to hand, do 1 more damage per Mana  
+- Buff Boi 7 HP
+  - Active (1 Mana) Discard a Mana from hand: your attacks that deal 3 or less base damage do 1 more damage this turn
+  - Attack (3 Mana | 2+ Dmg) Return up to 2 of your Mana from play to hand, do 1 more damage per Mana
 
-- TEMPORARY NAME ? HP
+- Manapulator 2 HP
   - Attack (0 Mana | 0 Dmg) Search your deck for up to 2 Mana, reveal them and put them into your hand.
   - Attack (4 Mana | 3 Dmg) Both players discard one Mana from play.
 
-- TEMPORARY NAME 2 HP  
+- Clearvoinancy 2 HP
   - Active (0 Mana) ITP: Look at the top 4 of your deck, put up to 2 Mana into your hand. Shuffle the other cards and put them at the bottom of your deck.
 
-- TEMPORARY NAME 3 HP  
+- Destructo >:) 3 HP
   - Active (1 Mana) OTP: Put 1 Damage on this creature: Draw until you have 4 cards in hand. (You can't use this Active if it has 1 HP remaining.)
 
-- TEMPORARY NAME 2 HP  
+- Speedy Groundhog 2 HP
   - Active (3 Mana) OTP: Return one Mana from play to your hand. Draw 3 cards.
 
 items 3-5
