@@ -37,11 +37,11 @@ creatures 4-7
   - Attack (2 Mana | 1 Dmg) Put 1 Mana from your discard into play.
   - Attack (5 Mana | 5 Dmg)
 
-- Buff Boi 7 HP
+- Buff Boi 6 HP
   - Active (1 Mana) Discard a Mana from hand: your attacks that deal 3 or less base damage do 1 more damage this turn
   - Attack (3 Mana | 2+ Dmg) Return up to 2 of your Mana from play to hand, do 1 more damage per Mana
 
-- Manapulator 2 HP
+- Manapulator 4 HP
   - Attack (0 Mana | 0 Dmg) Search your deck for up to 2 Mana, reveal them and put them into your hand.
   - Attack (4 Mana | 3 Dmg) Both players discard one Mana from play.
 
